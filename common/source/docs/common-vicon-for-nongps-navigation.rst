@@ -156,6 +156,11 @@ You should set the following key parameters:
  - AHRS_EKF_TYPE=3
  - EK3_GPS_TYPE=0
  - EK3_MAG_CAL=5
+ - EK3_SRC1_POSXY=3
+ - EK3_SRC1_POSZ=3
+ - EK3_SRC1_VELXY=3
+ - EK3_SRC1_VELZ=3
+ - EK3_SRC1_YAW=2
  - EK3_ALT_SOURCE=2
  - GPS_TYPE=14
  - GPS_DELAY_MS=50
